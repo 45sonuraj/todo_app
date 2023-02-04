@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:3:4-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\b4e3f600988e8c77a35b9b6ff33db4aa\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\b4e3f600988e8c77a35b9b6ff33db4aa\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Rainbow\.gradle\caches\transforms-3\f0562673a5e2177037a0a7b2b8b5e202\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Rainbow\.gradle\caches\transforms-3\f0562673a5e2177037a0a7b2b8b5e202\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rainbow\.gradle\caches\transforms-3\3fedd556563c7c1f5549c11a4905f772\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rainbow\.gradle\caches\transforms-3\3fedd556563c7c1f5549c11a4905f772\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Rainbow\.gradle\caches\transforms-3\f0562673a5e2177037a0a7b2b8b5e202\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:4:9-31
+	android:icon
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:6:9-43
+	android:name
+		INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:5:9-42
+manifest
+ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:shared_preferences_android] C:\Users\Rainbow\StudioProjects\todo\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] C:\Users\Rainbow\StudioProjects\todo\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\007bb41f862f22fa6bb3d4172cafefdf\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\b4e3f600988e8c77a35b9b6ff33db4aa\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Rainbow\.gradle\caches\transforms-3\ab09a77163ed1daf4cb8a417090a4e07\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\f9886eeb0b13d2785c9b5c0ce1b7e9b5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\889abf1eb10b1257467df76043b58967\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\568ec434e2d0cd8b1dd60c309739cb39\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\222d2d1c69493e1b9043d962516090a1\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Rainbow\.gradle\caches\transforms-3\f0562673a5e2177037a0a7b2b8b5e202\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Rainbow\.gradle\caches\transforms-3\c3db09584dacbcd3edee4510f20932b0\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\e1d21dee98b4cb75dd807db2476f9399\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\c7056f9aff5902523b96900df41a75ba\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\57f34cbd314f1ba7497f866825fdf751\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\69fe14d0368e70d653df815807dd6438\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\6f9b7655a2078264fa0d5f81854e0289\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rainbow\.gradle\caches\transforms-3\3fedd556563c7c1f5549c11a4905f772\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Rainbow\.gradle\caches\transforms-3\cdc454d8c41aefb396ae5e9bd247c5ff\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Rainbow\.gradle\caches\transforms-3\336d4fc72bd06784627e8f98fd0436ab\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] C:\Users\Rainbow\StudioProjects\todo\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] C:\Users\Rainbow\StudioProjects\todo\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\Rainbow\StudioProjects\todo\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\Rainbow\StudioProjects\todo\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\007bb41f862f22fa6bb3d4172cafefdf\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\007bb41f862f22fa6bb3d4172cafefdf\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\b4e3f600988e8c77a35b9b6ff33db4aa\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\b4e3f600988e8c77a35b9b6ff33db4aa\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Rainbow\.gradle\caches\transforms-3\ab09a77163ed1daf4cb8a417090a4e07\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Rainbow\.gradle\caches\transforms-3\ab09a77163ed1daf4cb8a417090a4e07\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\f9886eeb0b13d2785c9b5c0ce1b7e9b5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\f9886eeb0b13d2785c9b5c0ce1b7e9b5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\889abf1eb10b1257467df76043b58967\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\889abf1eb10b1257467df76043b58967\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\568ec434e2d0cd8b1dd60c309739cb39\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\568ec434e2d0cd8b1dd60c309739cb39\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\222d2d1c69493e1b9043d962516090a1\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\222d2d1c69493e1b9043d962516090a1\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Rainbow\.gradle\caches\transforms-3\f0562673a5e2177037a0a7b2b8b5e202\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Rainbow\.gradle\caches\transforms-3\f0562673a5e2177037a0a7b2b8b5e202\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Rainbow\.gradle\caches\transforms-3\c3db09584dacbcd3edee4510f20932b0\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Rainbow\.gradle\caches\transforms-3\c3db09584dacbcd3edee4510f20932b0\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\e1d21dee98b4cb75dd807db2476f9399\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\e1d21dee98b4cb75dd807db2476f9399\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\c7056f9aff5902523b96900df41a75ba\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\c7056f9aff5902523b96900df41a75ba\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\57f34cbd314f1ba7497f866825fdf751\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\57f34cbd314f1ba7497f866825fdf751\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\69fe14d0368e70d653df815807dd6438\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\69fe14d0368e70d653df815807dd6438\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\6f9b7655a2078264fa0d5f81854e0289\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Rainbow\.gradle\caches\transforms-3\6f9b7655a2078264fa0d5f81854e0289\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rainbow\.gradle\caches\transforms-3\3fedd556563c7c1f5549c11a4905f772\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Rainbow\.gradle\caches\transforms-3\3fedd556563c7c1f5549c11a4905f772\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Rainbow\.gradle\caches\transforms-3\cdc454d8c41aefb396ae5e9bd247c5ff\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Rainbow\.gradle\caches\transforms-3\cdc454d8c41aefb396ae5e9bd247c5ff\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Rainbow\.gradle\caches\transforms-3\336d4fc72bd06784627e8f98fd0436ab\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Rainbow\.gradle\caches\transforms-3\336d4fc72bd06784627e8f98fd0436ab\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml
+activity#com.example.todo.MainActivity
+ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:7:9-27:20
+	android:launchMode
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:10:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:13:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:14:13-55
+	android:exported
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:9:13-36
+	android:configChanges
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:12:13-163
+	android:theme
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:11:13-47
+	android:name
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:8:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:19:13-22:17
+	android:resource
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:21:15-52
+	android:name
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:20:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:25:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:30:9-32:33
+	android:value
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:32:13-30
+	android:name
+		ADDED from C:\Users\Rainbow\StudioProjects\todo\android\app\src\main\AndroidManifest.xml:31:13-44
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\b4e3f600988e8c77a35b9b6ff33db4aa\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\b4e3f600988e8c77a35b9b6ff33db4aa\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\b4e3f600988e8c77a35b9b6ff33db4aa\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\b4e3f600988e8c77a35b9b6ff33db4aa\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\b4e3f600988e8c77a35b9b6ff33db4aa\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Rainbow\.gradle\caches\transforms-3\b4e3f600988e8c77a35b9b6ff33db4aa\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
